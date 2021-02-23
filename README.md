@@ -9,3 +9,6 @@ Application designed based on customer requirements, CRM type, for a car dealers
 - - - Visual Paradigm
 - - - SQL Server Management Studio
 
+
+### Open here:
+https://klaudiagolebiowska.github.io/projects/
